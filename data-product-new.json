@@ -1,0 +1,486 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw0423157b/images/hi-res/cyo-product-image-grip.png?sw=400&sh=450",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw0423157b/images/hi-res/cyo-product-image-grip.png?sw=400&sh=450",
+      "name": "Custom PopGrip",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw0e79d4c7/images/hi-res/QRX-MagSafe_Clear_Clear_01A_Front.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw78e1ae50/images/hi-res/QRX-MagSafe_Clear_Clear_03A_Expanded.png?sw=400&sh=400",
+      "name": "PopGrip for MagSafe Clear",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwc0c1e00d/images/hi-res/QRX-MagSafe_Solid_Black_01A_Front.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwf66017cf/images/hi-res/QRX-MagSafe_Solid_Black_03B_Expanded.png?sw=400&sh=400",
+      "name": "PopGrip for MagSafe Black",
+      "price": 30
+    },
+    {
+      "id": 5,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw57231cd1/images/hi-res/Disney_Earridescent_Classic-Mouse_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwdcdd6643/images/hi-res/Disney_Earridescent_Classic-Mouse_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Earridescent Classic Mickey mouse",
+      "price": 25
+    },
+    {
+      "id": 6,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwaae007a4/images/hi-res/PW+_MagSafe_Black_01A_Front.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwac627a24/images/hi-res/PW+_MagSafe_Black_02_34.png?sw=400&sh=400",
+      "name": "PopWallets + for MagSafe Black",
+      "price": 40
+    },
+    {
+      "id": 7,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 8,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 9,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 10,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 11,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 12,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 13,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 14,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 15,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 16,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 17,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 18,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 19,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 20,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 21,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 22,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 23,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 24,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 25,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 26,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 27,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 28,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 29,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 30,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 31,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    },
+    {
+      "id": 32,
+      "frontImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dw5b7d2654/images/hi-res/Disney_Earridescent_Peppermint-Mickey_01_Top.png?sw=400&sh=400",
+      "behindImage": "https://www.popsockets.com/dw/image/v2/BFSM_PRD/on/demandware.static/-/Sites-popsockets-master-catalog/default/dwcb5f9b19/images/hi-res/Disney_Earridescent_Peppermint-Mickey_03_Expanded.png?sw=400&sh=400",
+      "name": "Disney Mickey Mouse Peppermint PopOut",
+      "price": 25
+    }
+  ],
+  "product-outStanding": [
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw375c9dba/categories/thumbnails/new-arrivals.png",
+      "name": "Latest Arrivals"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwd13dd2e1/categories/thumbnails/best-sellers.png",
+      "name": "Best Sellers"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwa975c191/categories/thumbnails/iridescent.png",
+      "name": "Iridescent"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw26560293/categories/thumbnails/harry-potter.png",
+      "name": "Harry Potter"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw6bdf2823/categories/thumbnails/lenticulars-thumb.png",
+      "name": "Lenticularis"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwd0af53cc/categories/Heirlooms_thumb.png",
+      "name": "Heirlooms"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw06156328/categories/thumbnails/collections.png",
+      "name": "Collections"
+    },
+    {
+      "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw847e33ce/categories/thumbnails/PopPuck.png",
+      "name": "PopPuck"
+    }
+  ],
+  "menuItem": [
+    {
+      "name": "New",
+      "children": [
+        {
+          "childName": "Latest Arrivals",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw375c9dba/categories/thumbnails/new-arrivals.png"
+        },
+        {
+          "childName": "Best Sellers",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwd13dd2e1/categories/thumbnails/best-sellers.png"
+        }
+      ]
+    },
+    {
+      "name": "Cases",
+      "children": [
+        {
+          "childName": "iPhone 14",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwde056c88/categories/thumbnails/iPhone14.png"
+        },
+        {
+          "childName": "iPhone 13",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwa2e9d938/categories/thumbnails/iPhone13.png"
+        },
+        {
+          "childName": "iPhone 12",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw5ac1e817/categories/thumbnails/iPhone12.png"
+        },
+        {
+          "childName": "iPhone X/11",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwbcb4f23d/categories/thumbnails/popcase-11-clear-75-x-75.png"
+        },
+        {
+          "childName": "Otter+Pop Samsung",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw0bed9b66/categories/thumbnails/Otter-Samsung.png"
+        },
+        {
+          "childName": "Otter+Pop iPhone",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw958dd366/categories/thumbnails/Otter+iPhone.png"
+        },
+        {
+          "childName": "Customize a Case",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw66008088/categories/thumbnails/custom-case-75x75.png"
+        },
+        {
+          "childName": "MagSafe Cases",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw3d698bb7/categories/thumbnails/popcase-for-magsafe.png"
+        },
+        {
+          "childName": "Shop All Cases",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw29bae8fc/categories/thumbnails/AllCases.png"
+        }
+      ]
+    },
+    {
+      "name": "Collections",
+      "children": [
+        {
+          "childName": "PlantCore Collection",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dweecb1142/categories/thumbnails/plantcore_thumb.png"
+        },
+        {
+          "childName": "Holiday",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwd183f5b9/categories/thumbnails/thumb-collection-holiday.png"
+        },
+        {
+          "childName": "Anker",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw364a3c6e/categories/thumbnails/thumb-anker.png"
+        },
+        {
+          "childName": "JumpStart",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwb2a3ed5d/categories/thumbnails/thumb-jumpstart.png"
+        },
+        {
+          "childName": "Glitz",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwcbcada7d/categories/thumbnails/thumb-glitz.png"
+        },
+        {
+          "childName": "Mickey",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw757ef14e/categories/thumbnails/thumb-mickey.png"
+        },
+        {
+          "childName": "Lenticulars",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw631e9ebe/categories/thumbnails/thumb-lenticular.png"
+        },
+        {
+          "childName": "Pokemon",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw5da9ee8e/categories/thumbnails/thumb-pokemon.png"
+        },
+        {
+          "childName": "PopOuts",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwba33be41/categories/thumbnails/thumb-popouts.png"
+        },
+        {
+          "childName": "Sky Zone",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwacf6cbf9/categories/thumbnails/thumb-skyzone.png"
+        },
+        {
+          "childName": "Harry Potter",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw51ddabbf/categories/thumbnails/thumb-harry-potter.png"
+        },
+        {
+          "childName": "Heirlooms",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw13777ca8/categories/thumbnails/thumb-heirloom.png"
+        }
+      ]
+    },
+    {
+      "name": "Grips",
+      "children": [
+        {
+          "childName": "MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwbb496957/categories/thumbnails/magsafe_thumb.png"
+        },
+        {
+          "childName": "Custom",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw98b202e4/categories/thumbnails/customize-a-grip-75x75.png"
+        },
+        {
+          "childName": "Graphics",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw8def4c06/categories/thumbnails/graphic_thumb.png"
+        },
+        {
+          "childName": "Enamels",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwbd491e2a/categories/thumbnails/enamels_thumb.png"
+        },
+        {
+          "childName": "Tidepool",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw659bfb68/categories/thumbnails/tidepool_thumb.png"
+        },
+        {
+          "childName": "Spinnable",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwd5b553b3/categories/thumbnails/spinnable_thumb.png"
+        },
+        {
+          "childName": "PlantCore",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dweecb1142/categories/thumbnails/plantcore_thumb.png"
+        },
+        {
+          "childName": "GemStone",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw16d80c4d/categories/thumbnails/gemstone_thumb.png"
+        },
+        {
+          "childName": "Translucents",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwfe0951bc/categories/thumbnails/translucent_thumb.png"
+        },
+        {
+          "childName": "Slidables",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwaf83494b/categories/thumbnails/slideable_thumb.png"
+        },
+        {
+          "childName": "All Grips",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw0358c8cc/categories/thumbnails/allgrips_thumb.png"
+        }
+      ]
+    },
+    {
+      "name": "Wallets",
+      "children": [
+        {
+          "childName": "PopWallet+",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw9c2de41b/categories/thumbnails/popwallet-plus.png"
+        },
+        {
+          "childName": "MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw7d32cbf3/categories/thumbnails/magsafe-wallets.png"
+        },
+        {
+          "childName": "PopWallet Classic",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwcf0a225b/categories/thumbnails/popwallet.png"
+        },
+        {
+          "childName": "Customize A Wallet",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw378ad289/categories/thumbnails/CYO_PopWallet_Colors_01_Front.png"
+        },
+        {
+          "childName": "All Wallets",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw1bc4d3e7/categories/thumbnails/wallets.png"
+        }
+      ]
+    },
+    {
+      "name": "PopPuck",
+      "children": []
+    },
+    {
+      "name": "For iPhone",
+      "children": [
+        {
+          "childName": "Grips for MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwd3475cf5/categories/thumbnails/thumb-foriphone-grip-magsafe.png"
+        },
+        {
+          "childName": "Cases for MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwb865edfc/categories/thumbnails/thumb-cases-iphone14pro.png"
+        },
+        {
+          "childName": "Wallets for MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dwe32a9ed1/categories/thumbnails/thumb-foriphone-wallets-magsafe.png"
+        },
+        {
+          "childName": "MagSafe Friendly",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw561aa0c3/categories/thumbnails/thumb-foriphone-magsafe-friendly.png"
+        },
+        {
+          "childName": "Mounts for MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw5680a726/categories/thumbnails/mounts-magsafe-75x75.png"
+        },
+        {
+          "childName": "All MagSafe",
+          "image": "https://www.popsockets.com/on/demandware.static/-/Sites-amer-storefront-catalog/default/dw704a218d/categories/thumbnails/magsafe.png"
+        }
+      ]
+    },
+    {
+      "name": "Charging",
+      "children": []
+    },
+    {
+      "name": "Sale",
+      "children": []
+    }
+  ]
+}
