@@ -1,9 +1,9 @@
 import TitleRender from './component/title/title';
-import ProductsOutstanding from './component/product-outstanding/product-outstanding'
+import ProductsOutstanding from "../partial/product-outstanding/product-outstanding"
 import ClassifyProducts from './component/classify-product/classify-product'
-import ProductList from './component/product-list/product-list'
+import ProductList from '../partial/product-list/product-list'
 import Paging from './component/paging/paging'
-import Footer from './component/footer/footer';
+import Footer from '../UI/footer/footer'
 const NewUi = () => {
   return (
     <div className="main" style={{ padding: "10px 2rem", marginTop: "7rem" }}>
