@@ -1,4 +1,4 @@
-import NavBar from '../components/nav-bar/nav-bar'
+import NavBar from '../components/partial/nav-bar/nav-bar'
 const NavBarPage = () => {
   return <NavBar />
 }

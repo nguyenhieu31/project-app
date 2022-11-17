@@ -1,7 +1,7 @@
 import styled from 'styled-components';
-import Logo from './components/logo/logo';
-import Information from './components/information/information'
-import SideBarMenu from './components/side-bar-menu/side-bar-menu'
+import Logo from '../../UI/logo/logo';
+import Information from '../information/information'
+import SideBarMenu from '../side-bar-menu/side-bar-menu'
 const StyleNavBar = styled.div`
   display: flex;
   flex-direction: column;

@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getProductMenuItem } from '../../../../redux/menuItem/menuItemSlice';
+import { getProductMenuItem } from '../../../redux/menuItem/menuItemSlice';
 import { Link } from "react-router-dom";
 import styled from 'styled-components';
 import Grid from '@mui/material/Grid';

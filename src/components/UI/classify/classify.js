@@ -1,8 +1,8 @@
 import styled from 'styled-components';
-import ProductType from './product-type/product-type';
-import ProductPrice from './product-price/product-price';
-import ProductCompatibility from './product-compatibility/product-compatibility';
-import SortProduct from './sort-product/sort-product';
+import ProductType from '../../partial/product-type/product-type';
+import ProductPrice from '../../partial/product-price/product-price';
+import ProductCompatibility from '../../partial/product-compatibility/product-compatibility';
+import SortProduct from '../../partial/sort-product/sort-product';
 import { useState } from 'react';
 const ClassifyProducts = styled.ul`
   display: flex;

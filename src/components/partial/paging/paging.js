@@ -1,4 +1,4 @@
-import useProductList from '../../../../hook/useProductList'
+import useProductList from '../../../hook/useProductList'
 import styled from 'styled-components';
 const PagingStyle = styled.button`
   width: max-content;
