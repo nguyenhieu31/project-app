@@ -4,8 +4,13 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { getProductDetail } from '../../../redux/product-details/product-details';
+import { useDispatch } from 'react-redux';
 const ProductCard = ({ product, ...props }) => {
   const [isHover, setIsHover] = useState(false);
+  const navigate = useNavigate();
+  const dispatch = useDispatch();
   function handelMouseOverProduct() {
     setIsHover(true);
   }
@@ -19,6 +24,10 @@ const ProductCard = ({ product, ...props }) => {
       return product.behindImage;
     }
   }
+  function handelClickProduct(id) {
+    dispatch(getProductDetail(id));
+    navigate(`products/${id}`);
+  }
   return (
     <Card sx={{ maxWidth: 345, minHeight: "400px" }}>
       <CardActionArea style={{ height: "100%", display: "grid", gridTemplateRows: "8fr 2fr" }}>
@@ -30,6 +39,7 @@ const ProductCard = ({ product, ...props }) => {
           style={{ minHeight: "285px" }}
           onMouseOver={() => { handelMouseOverProduct() }}
           onMouseOut={() => { handelMouseOutProduct() }}
+          onClick={() => { handelClickProduct(product.id) }}
         />
         <CardContent style={{
           color: "rgb(24, 24, 24)",

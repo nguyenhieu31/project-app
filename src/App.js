@@ -1,10 +1,11 @@
 import NavBarPage from './pages/navbar-page'
 import NewPage from './pages/new-page'
-// import HomePage from './pages/home-page'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import { Provider } from 'react-redux';
-import { store } from './redux/store'
+import { store } from './redux/store';
+import FooterPage from './pages/footer-page';
+import ProductDetailPage from './pages/product-detail-page';
 function App() {
   return (
     <Provider store={store}>
@@ -13,7 +14,10 @@ function App() {
         <Routes>
           <Route path="/" element={<NewPage />} />
           <Route path="/new" element={<NewPage />} />
+          <Route path="/new/products/:id" element={<ProductDetailPage />} />
+          <Route path="/products/:id" element={<ProductDetailPage />} />
         </Routes>
+        <FooterPage />
       </BrowserRouter>
     </Provider>
   );

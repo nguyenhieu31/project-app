@@ -13,8 +13,9 @@ const MenuChild = styled.div`
   top: 100%;
   left:0;
   right: 0;
-  background-color: #fff;
+  background-color: white;
   transition: all 0.1s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   &>.menu_child{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -145,9 +146,9 @@ const SideBarMenu = () => {
       {menuItem.map((product, index) => {
         const { name, children } = product;
         return (
-          <li>
+          <li key={index + 1}>
             <Link>{name}</Link>
-            <MenuChild className="menu_item-list">
+            {children.length !== 0 ? (<MenuChild className="menu_item-list">
               <Grid className="menu_child" container spacing={3} sx={{ margin: "0", gap: "3rem", maxWidth: "100%" }}>
                 {children.map((child, index) => {
                   const { childName, image } = child;
@@ -163,7 +164,7 @@ const SideBarMenu = () => {
                   );
                 })}
               </Grid>
-            </MenuChild>
+            </MenuChild>) : ""}
           </li>
         );
       })}

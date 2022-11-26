@@ -23,6 +23,7 @@ const ProductSlice = createSlice({
   name: 'product',
   initialState,
   reducers: {
+
   },
   extraReducers: (builder) => {
     builder
@@ -39,7 +40,4 @@ const ProductSlice = createSlice({
       })
   }
 })
-
-export const { addTodo, toggleTodo } = ProductSlice.actions
-
 export default ProductSlice.reducer;

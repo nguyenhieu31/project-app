@@ -3,7 +3,6 @@ import ProductsOutstanding from "../../partial/product-outstanding/product-outst
 import ClassifyProducts from '../classify-product/classify-product'
 import ProductList from '../../partial/product-list/product-list'
 import Paging from '../../partial/paging/paging'
-import Footer from '../footer/footer'
 const NewUi = () => {
   return (
     <div className="main" style={{ padding: "10px 2rem", marginTop: "7rem" }}>
@@ -19,9 +18,6 @@ const NewUi = () => {
         <div className="paging" style={{ marginTop: "2rem", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: "1rem" }}>
           <Paging />
         </div>
-      </div>
-      <div className="footer">
-        <Footer />
       </div>
     </div>
   )
